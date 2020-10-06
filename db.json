@@ -1,23 +1,67 @@
 {
     "Users": [{
-        "id": 1,
-        "firstName": "Kushal",
-        "lastName": "Baldev",
-        "email": "baldevkushal@gmail.com",
-        "role": "admin"
-    }, {
-        "id": 2,
-        "firstName": "Yogesh",
-        "lastName": "Dhedhi",
-        "email": "yogesh.dhedhi@gmail.com",
-        "role": "admin"
-    }, {
-        "id": 3,
-        "firstName": "Jay",
-        "lastName": "Dave",
-        "email": "jay.dave@gmail.com",
-        "role": "admin"
-    }],
+            "id": 1,
+            "firstName": "Kushal",
+            "lastName": "Baldev",
+            "email": "baldevkushal@gmail.com",
+            "role": "admin",
+            "password": "admin123"
+        }, {
+            "id": 2,
+            "firstName": "Yogesh",
+            "lastName": "Dhedhi",
+            "email": "yogesh.dhedhi@gmail.com",
+            "role": "admin",
+            "password": "admin123"
+        }, {
+            "id": 3,
+            "firstName": "Jay",
+            "lastName": "Dave",
+            "email": "jay.dave@gmail.com",
+            "role": "admin",
+            "passsword": "admin123"
+        },
+        {
+            "id": 4,
+            "firstName": "Sankit",
+            "lastName": "Koladiya",
+            "email": "sankit.koladiya@gmail.com",
+            "role": "admin",
+            "passsword": "admin123"
+        },
+        {
+            "id": 5,
+            "firstName": "Admin",
+            "lastName": "Abc",
+            "email": "admin@abc.com",
+            "role": "admin",
+            "passsword": "password"
+        },
+        {
+            "id": 6,
+            "firstName": "Parth",
+            "lastName": "Rami",
+            "email": "parth.rami@gmail.com",
+            "role": "admin",
+            "passsword": "password"
+        },
+        {
+            "id": 7,
+            "firstName": "Imran",
+            "lastName": "Momin",
+            "email": "imran.momin@gmail.com",
+            "role": "admin",
+            "passsword": "password"
+        },
+        {
+            "id": 8,
+            "firstName": "Vipul",
+            "lastName": "Vaghela",
+            "email": "vipul.vaghela@gmail.com",
+            "role": "admin",
+            "passsword": "password"
+        }
+    ],
     "comments": [{
         "id": 1,
         "body": "some comment",
