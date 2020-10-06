@@ -19,7 +19,7 @@
             "lastName": "Dave",
             "email": "jay.dave@gmail.com",
             "role": "admin",
-            "passsword": "admin123"
+            "password": "admin123"
         },
         {
             "id": 4,
@@ -27,7 +27,7 @@
             "lastName": "Koladiya",
             "email": "sankit.koladiya@gmail.com",
             "role": "admin",
-            "passsword": "admin123"
+            "password": "admin123"
         },
         {
             "id": 5,
@@ -35,7 +35,7 @@
             "lastName": "Abc",
             "email": "admin@abc.com",
             "role": "admin",
-            "passsword": "password"
+            "password": "password"
         },
         {
             "id": 6,
@@ -43,7 +43,7 @@
             "lastName": "Rami",
             "email": "parth.rami@gmail.com",
             "role": "admin",
-            "passsword": "password"
+            "password": "password"
         },
         {
             "id": 7,
@@ -51,7 +51,7 @@
             "lastName": "Momin",
             "email": "imran.momin@gmail.com",
             "role": "admin",
-            "passsword": "password"
+            "password": "password"
         },
         {
             "id": 8,
@@ -59,7 +59,7 @@
             "lastName": "Vaghela",
             "email": "vipul.vaghela@gmail.com",
             "role": "admin",
-            "passsword": "password"
+            "password": "password"
         }
     ],
     "comments": [{
